@@ -93,11 +93,6 @@ Please keep contributions consistent with the project's static, no-dependency ap
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
-
----
 
 <div align="center">
 
